@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 function Header() {
   return (
     <header>
-      <img src="public/img/logo.png" alt="logo-fernanda" width={120} height={120} />
+      <img src="public/img/logo-preta.png" alt="logo-fernanda" width={120} height={120} />
       <nav>
       <ul>
 		<li>
