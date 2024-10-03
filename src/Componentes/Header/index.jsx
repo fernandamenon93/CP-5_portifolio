@@ -10,7 +10,7 @@ function Header() {
 			<Link to='/'>Home</Link>
 		</li>
     <li>
-			<Link to='/projetos'>Projetos</Link>
+			<Link to='/projetos'>Projetos/Certificados</Link>
 		</li>
 		
     <li>

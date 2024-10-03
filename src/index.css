@@ -74,26 +74,37 @@ nav ul li a:hover {
   margin: 150px;
 }
 #info {
-  display: flex;
-  justify-content: space-around;
-  padding: 20px;
+  text-align: center;
 }
-
+.texto-sobremim{
+  text-align: center;
+  width: 700px;
+  height: 20px;
+  margin-left: 100px;
+}
+.texto{
+  text-align: center;
+  padding: 20px;
+  width: 700px;
+  height: 200px;
+  margin: 100px;
+  font-size: large;
+}
 .personal-info, .skills {
   flex: 1;
-  color: #ffffff;
+  color: #000000;
 }
 
 .skill-card {
-  border: 1px solid #ffffff;
+  border: 1px solid #b4b4b4;
   border-radius: 5px;
   padding: 10px;
   margin-bottom: 10px;
 }
 #contato{
   text-align: center;
-  background-color: #000000;
-  color: #ffffff;
+  background-color: #b4b4b4;
+  color: #000000;
   margin-top: 60px;
 }
 
@@ -110,23 +121,26 @@ nav ul li a:hover {
   padding: 20px;
   margin: 10px;
   border-radius: 10px;
+  border: none;
+  background-color: #000000;
+  color: #b4b4b4;
   
 }
 #contato form button {
   width: 10%;
   border-radius: 30px;
   border: none;
-  background-color:#ffffff ;
-  color: #000000;
+  background-color:#000000 ;
+  color: #b4b4b4;
   padding: 20px;
   cursor: pointer;
   margin: 20px;
   margin-bottom: 100px;
 }
 footer {
-  background-color: #000000;
+  background-color: #b4b4b4;
   width: 100%;
-  color: white;
+  color: #000000;
   text-align: center;
   padding: 10px 0;
   height: 200px;
@@ -155,13 +169,13 @@ footer .socials li {
 }
 
 footer .socials li a {
-  color: #ffffff;
+  color: #000000;
   font-size: 1.5rem;
   transition: color 0.3s;
 }
 
 footer .socials li a:hover {
-  color: #717170;
+  color: #154bc2;
 }
 
 
