@@ -5,7 +5,7 @@ function Projetos(){
     return (
         <div className="mainInfo">
         <section id='info'>
-            <Skills />
+        
             <section id="certificados">
         <h2>Certificados</h2>
         <ul>
