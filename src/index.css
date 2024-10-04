@@ -91,6 +91,22 @@ nav ul li a:hover {
   margin: 100px;
   font-size: large;
 }
+.text-search {
+  text-align: center;
+  margin-left: 760px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  padding: 8px;
+  border-radius: 8px;
+  background-color: #e0e0e0;
+}
+
+.titulo1 {
+  text-align: center;
+}
+.texto1 {
+  text-align: center;
+}
 .personal-info, .skills {
   flex: 1;
   color: #000000;

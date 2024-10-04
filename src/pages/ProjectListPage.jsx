@@ -16,16 +16,16 @@ export default function ProjectListPage() {
 
   return (
     <>
-      <h2>Veja o catálogo completo de projetos</h2>
+      <h2 className="titulo1">Veja o catálogo completo de projetos</h2>
       <input
-        className="text-black"
+        className="text-search"
         type="text"
         id="search"
         value={search}
         onChange={handleSearch}
         placeholder="Buscar projeto..."
       />
-      <div>
+      <div className="texto1">
         {projetosFiltrados.map((projeto) => (
             <>
           <Link key={projeto.id} to={`/projetos/${projeto.id}`}>
