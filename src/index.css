@@ -3,9 +3,7 @@
   margin: 0;
   padding: 0;
 }
-:root{
 
-}
 body {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   background-color: #b4b4b4 ;
@@ -81,6 +79,9 @@ nav ul li a:hover {
   width: 700px;
   height: 20px;
   margin-left: 100px;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 4%;
 }
 .texto{
   text-align: center;
