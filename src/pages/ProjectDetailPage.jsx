@@ -7,10 +7,11 @@ export default function ProjectDetailPage({titulo, descricao,ano}) {
 
   return (
     <>
-    <p>Detalhes</p>
-      <h2>{projeto.titulo}</h2>
+    <p className="texto-detalhes">Detalhes:</p>
+      <h2 className="texto-descricao">{projeto.titulo}</h2>
       <p>{projeto.descricao}</p>
-      <p>Ano de início: {projeto.ano}</p>
+      <img  className="img-certificado" src={projeto.imagem} alt={projeto.titulo}></img>
+      <p className="texto-detalhes">Ano de início: {projeto.ano}</p>
     </>
   );
 }

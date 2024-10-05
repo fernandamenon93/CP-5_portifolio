@@ -1,14 +1,56 @@
 [
   {
     "id": 1,
-    "titulo": "Sistema de IoT para Fórmula E",
-    "descricao": "Sistema que melhora a interação dos espectadores durante as corridas através de IoT.",
-    "ano": 2023
+    "titulo": "Future-Proof Organizations",
+    "descricao": "",
+    "imagem": "/img/future-proof-organizations.png",
+    "ano": 202
   },
   {
     "id": 2,
-    "titulo": "Site de Música",
-    "descricao": "Uma plataforma para streaming de música.",
+    "titulo": "Inteligência Artificial e Computacional",
+    "descricao": "",
+    "imagem": "/img/inteligencia-artificial-computacional.png",
+    "ano": 2024
+  },
+  {
+    "id": 3,
+    "titulo": "Design Thinking - Process",
+    "descricao": "",
+    "imagem": "/img/desing-thinking.png",
+    "ano": 2024
+  },
+  {
+    "id": 4,
+    "titulo": "Formação Social e Sustentabilidade",
+    "descricao": "",
+    "imagem": "/img/formacao-social-sustentabilidade.png",
+    "ano": 2024
+   
+  },
+  {
+    "id": 5,
+    "titulo": "Lógica e Pratica de Programação",
+    "descricao": "",
+    "imagem": "/img/logica_e_pratica_de_programacao.jpg",
+    "ano": 2024
+  },
+  {
+    "id": 6,
+    "titulo": " Inglês: Wizard (nível W6) e IW (completo)",
+    "descricao": "",
+    "imagem": "/img/wizard.jpg",
+    "ano": 2024
+  },
+  {
+    "id": 7,
+    "titulo": " Times Idiomas-completo",
+    "descricao": "",
+    "imagem": "/img/times.jpg",
     "ano": 2024
   }
+ 
 ]
+
+
+

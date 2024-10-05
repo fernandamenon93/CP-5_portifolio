@@ -1,6 +1,4 @@
 
-import Skills from "../Componentes/Skills";
-
 function Projetos(){
     return (
         <div className="mainInfo">

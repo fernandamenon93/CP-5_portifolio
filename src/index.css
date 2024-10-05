@@ -97,7 +97,8 @@ nav ul li a:hover {
   margin-bottom: 30px;
   margin-top: 30px;
   padding: 8px;
-  border-radius: 8px;
+  border: 1px solid #000000;
+  border-radius: 10px;
   background-color: #e0e0e0;
 }
 
@@ -106,6 +107,27 @@ nav ul li a:hover {
 }
 .texto1 {
   text-align: center;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  padding: 10px;
+  margin-left: 600px;
+  margin-right: 600px;
+  margin-bottom: 90px;
+}
+.texto-descricao {
+  text-align: center;
+}
+.img-certificado {
+  text-align: center;
+  border-radius: 10px;
+  padding: 0px;
+  margin-left: 180px;
+  margin-bottom: 90px;
+}
+.texto-detalhes {
+  text-align: center;
+  margin-bottom: 100px;
+
 }
 .personal-info, .skills {
   flex: 1;

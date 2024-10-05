@@ -16,7 +16,7 @@ export default function ProjectListPage() {
 
   return (
     <>
-      <h2 className="titulo1">Veja o catálogo completo de projetos</h2>
+      <h2 className="titulo1">Veja o catálogo completo de projetos:</h2>
       <input
         className="text-search"
         type="text"
